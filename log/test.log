@@ -1,0 +1,16 @@
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-10 23:07:33 +0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 703ms (Views: 670.5ms | ActiveRecord: 0.0ms)
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-10 23:12:34 +0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 108ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-10 23:18:05 +0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 107ms (Views: 74.3ms | ActiveRecord: 0.0ms)
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-10 23:19:56 +0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 108ms (Views: 73.7ms | ActiveRecord: 0.0ms)
